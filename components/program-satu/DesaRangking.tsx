@@ -336,7 +336,7 @@ const PolresDashboard = () => {
           </TabsList>
 
           <TabsContent value="table">
-            <div className="rounded-md overflow-hidden">
+            <div className="rounded-xl overflow-hidden">
               <div className="overflow-x-auto">
                 <Table>
                   <TableHeader>
@@ -348,22 +348,22 @@ const PolresDashboard = () => {
                         POLRES/TA
                       </TableHead>
                       <TableHead className="text-center border border-purple-200 font-bold text-gray-800 bg-purple-300">
-                        JMLH DESA
+                        Jumlah Desa
                       </TableHead>
                       <TableHead className="text-center border border-purple-200 font-bold text-gray-800 bg-purple-300">
-                        JMLH KEC
+                        Jumlah KEC
                       </TableHead>
                       <TableHead className="text-center border border-blue-200 font-bold text-gray-800 bg-blue-300">
-                        JMLH POLISI
+                        Jumlah Polisi
                       </TableHead>
                       <TableHead className="text-center border border-blue-200 font-bold text-gray-800 bg-blue-300">
-                        JMLH PENGGERAK
+                        Jumlah Penggerak
                       </TableHead>
                       <TableHead className="text-center border border-green-200 font-bold text-gray-800 bg-green-300">
-                        DESA PERCONTOH AN
+                        Desa Percontohan 
                       </TableHead>
                       <TableHead className="text-center border border-green-200 font-bold text-gray-800 bg-green-300">
-                        DESA NON PERCONTOH AN
+                        Desa Non Percontohan
                       </TableHead>
                       <TableHead className="text-center border border-red-200 font-bold text-gray-800 bg-red-300">
                         JMLH TITIK PEKARANGAN PANGAN MINGGU KE III
@@ -372,13 +372,13 @@ const PolresDashboard = () => {
                         JMLH TITIK PEKARANGAN PANGAN MINGGU KE IV
                       </TableHead>
                       <TableHead className="text-center border border-amber-200 font-bold text-gray-800 bg-amber-300">
-                        PERTAM BAHAN TITIK
+                        PERTAMBAHAN TITIK
                       </TableHead>
                       <TableHead className="text-center border border-amber-200 font-bold text-gray-800 bg-amber-300">
-                        PERIKAN AN
+                        PERIKANAN
                       </TableHead>
                       <TableHead className="text-center border border-amber-200 font-bold text-gray-800 bg-amber-300">
-                        PETERNA KAN
+                        PETERNAKAN
                       </TableHead>
                       <TableHead className="text-center border border-indigo-200 font-bold text-gray-800 bg-indigo-300">
                         HOLIKULTURA
